@@ -21,8 +21,9 @@ Image segmentation is the process of taking a digital image and dividing it into
 4. Set the image path in the following file "clustering_task.ipynb", which image is going to use.
 
 5. Now after setting up the whole environment and writing the algorithm for the transformation. Its time to start the project using the following command on the terminal.
+```
 > python clustering_algorithms.py
-
+```
 6. After that run each section from the file "clustering_task.ipynb" using Jupyter notebook, also setting up the server.
 7. After running all the scripts from there. You can see 3 images, which is transformed and created after performing the Kmean and DBScan.
 8. Here you can see the following images.
