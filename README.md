@@ -38,6 +38,5 @@ Use -r flag to resize image. Recommended for DBSCAN algorithm for fast processin
 
 ----------------------
 ## Authors
-1. Anees ur Rehman (Matriculation: 5002725)
+Anees ur Rehman (Matriculation: 5002725)
 
-2. Nida Fatima (Matriculation: 5005055)
